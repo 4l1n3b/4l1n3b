@@ -1,3 +1,4 @@
+<div style="background-color: white; padding: 20px;">
 <h1 align="left">Hi 👋! My name is Aline, and I'm a research intern from GRASI-UFPI. ✨</h1>
 
 ###
@@ -59,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/4l1n3b/4l1n3b/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
