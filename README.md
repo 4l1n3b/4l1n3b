@@ -1,4 +1,4 @@
-<table>
+<table style="background-color: white;">
 <tr>
 <td>
 <h1 align="left">Hi 👋! My name is Aline, and I'm a research intern from GRASI-UFPI. ✨</h1>
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6eXY2dzM0aXUzanhseDV6bXVua2xzdnZ2eXozcWp3Z25ocXllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif"  />
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6eXY2dzM0aXUzanhseDV6bXVua2xzdnZ2eXozcWp3Z25ocXllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif" alt="coding animation" />
 
 ###
 
