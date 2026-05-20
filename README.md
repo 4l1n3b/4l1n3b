@@ -1,4 +1,6 @@
-<div style="background-color: white; padding: 20px;">
+<table>
+<tr>
+<td>
 <h1 align="left">Hi 👋! My name is Aline, and I'm a research intern from GRASI-UFPI. ✨</h1>
 
 ###
@@ -62,4 +64,6 @@
 
 
 ###
-</div>
+</td>
+</tr>
+</table>
